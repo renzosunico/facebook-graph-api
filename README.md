@@ -1,7 +1,7 @@
 # facebook-graph-api
 Obtaining a permanent **access token** for a Facebook Page
 
-Obtaining an **access token** for a Facebook Page can be a bit tricky so I've decided to compile my own steps on obtaining an **access token**.
+Obtaining an **access token** for a Facebook Page can be a bit tricky so I've decided to compile my own steps on obtaining an **access token** that I gathered on [StackOverFlow](http://stackoverflow.com/questions/12168452/long-lasting-fb-access-token-for-server-to-pull-fb-page-info/21927690#21927690).
 
 
 Steps in Obtaining Permanent Access Token:
